@@ -13,7 +13,7 @@
 - [ ] 20 ?’s
 - [ ] 🤺 Go Poke Things
 - [ ] https://twil.io/platgpt
-      - [ ] [Repository](https://github.com/craigsdennis/chatgpt-streamlit)
+- [ ] [Repository](https://github.com/craigsdennis/chatgpt-streamlit)
 - [ ] 🤹 Get Pretty Talented
 - [ ] 👬 🧑‍🤝‍🧑 👭 Gel Productive Teamwork
 - [ ] This [talk](https://twil.io/what-the-gpt)
