@@ -12,7 +12,7 @@
 - [ ] LLM LGTM 👍
 - [ ] 20 ?’s
 - [ ] 🤺 Go Poke Things
-- [ ] https://twil.io/platgpt
+- [ ] https://twil.io/hackgpt
 - [ ] [Repository](https://github.com/craigsdennis/chatgpt-streamlit)
 - [ ] 🤹 Get Pretty Talented
 - [ ] 👬 🧑‍🤝‍🧑 👭 Gel Productive Teamwork
