@@ -1,5 +1,5 @@
-# gpt-what
 # What the GPT? Basics and prompt engineering
+<ul>
 [ ] 🚀 Gain Prompting Trust
 [ ] 📚 Gather Pertinent Texts
 [ ] Completion Introduction
@@ -18,3 +18,4 @@
 [ ] 🤹 Get Pretty Talented
 [ ] 👬 🧑‍🤝‍🧑 👭 Gel Productive Teamwork
 [ ] This talk
+</ul>
